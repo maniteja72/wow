@@ -1,4 +1,4 @@
-a=4
-b=56
-c=a+b
-print ("c")
+x = 5
+y = "John"
+print(x)
+print(y)
