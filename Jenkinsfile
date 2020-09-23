@@ -1,5 +1,5 @@
 pipeline{
-  agent any
+  agent none
     stage("Build"){
       steps {
           echo 'Building the applications..'
